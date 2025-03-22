@@ -30,5 +30,10 @@ I'm a Software Engineering student with experience in building practical systems
 - 📧 [huyky26@gmail.com](mailto:huyky26@gmail.com)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="18" height="18" style="vertical-align: text-bottom;"/> [LinkedIn](https://www.linkedin.com/in/huy-ky-7282a918a)
 
+---
+
+## 📊 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry908&show_icons=true&theme=radical)
 
 Thanks for stopping by! ⭐
