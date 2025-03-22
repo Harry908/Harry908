@@ -19,7 +19,7 @@ I'm a Software Engineering student with experience in building practical systems
 
 ## 🛠️ Projects
 
-- **Azure Cloud NILM System** *(Private Repo)* – An intelligent home energy monitoring system with real-time consumption tracking and AI-driven suggestions.  
+- **Azure Cloud NILM System** *(Private Repo)* – An intelligent home energy monitoring system that tracks real-time power usage using non-intrusive load monitoring techniques and provides AI-driven energy-saving suggestions.
 - **[Recipe Generator](https://github.com/JustDylan/recipeGenerator.git)** – A desktop app that graphs recipes by complexity from user-provided ingredients using WPF and MVVM.  
 - **[Image Steganography](https://github.com/Harry908/Cpts327_Steganography.git)** – A Python tool to hide and extract messages in images using LSB and image processing.
 
