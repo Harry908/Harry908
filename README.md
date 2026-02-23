@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Huy (Harry) Ky
 
 🎓 I'm a Software Engineering student at Washington State University passionate about cloud computing, AI, and embedded systems.  
-📍 Based in Everett, WA | 💻 GPA: 4.0 | 🎯 Expected Graduation: Dec 2025
-
+📍 Based in Everett, WA | 💻 GPA: 4.0 | 🎯 Bachelor of Science in Software Engineering – Summa Cum Laude, GPA: 4.0 Washington State University | Dec 2025
 ---
 
 ## 🚀 About Me
